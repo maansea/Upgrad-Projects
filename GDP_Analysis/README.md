@@ -62,7 +62,8 @@ In Part-I, you would have noticed that (one) way to increase per capita GDP is b
 In this part of the analysis, you will investigate whether there is any relationship between per capita GDP with drop-out rates in education.
 
 <b>Data</b>
-Data II: This section will require the drop-out rate dataset apart from the dataset that you have used in Part-1 of the case study. Download instructions are given in the next segment.
+
+<b>Data II:</b> This section will require the drop-out rate dataset apart from the dataset that you have used in Part-1 of the case study. Download instructions are given in the next segment.
 
 <b>Part-II: GDP and Education</b>
 
