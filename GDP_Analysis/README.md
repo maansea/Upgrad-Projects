@@ -19,6 +19,7 @@ In the second part, you will analyse whether GDP per capita is related to drop o
 
 <b>Part-I: GDP Analysis of Indian States</b>
 For each of the following steps of analysis, choose an appropriate type of plot for comparing the data. Also, ensure that the plots are in increasing or decreasing order for better comparison. For e.g., if you make a bar plot to compare the GDPs of various states, ensure that the bars are in either increasing or decreasing order of GDP.
+
 <b>Part I-A:</b>
 For the analysis below, use the Data I-A.
 
@@ -55,6 +56,7 @@ Plot the contribution of the sub-sectors as a percentage of the GSDP of each cat
 
 
 <b>Part-II: GDP and Education Drop-out Rates</b>
+
 In Part-I, you would have noticed that (one) way to increase per capita GDP is by shifting the distribution of GDP towards the secondary and tertiary sectors, i.e. the manufacturing and services industries. But these industries can thrive only when there is availability of educated, skilled labour.
 
 In this part of the analysis, you will investigate whether there is any relationship between per capita GDP with drop-out rates in education.
