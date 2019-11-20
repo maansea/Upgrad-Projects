@@ -3,3 +3,5 @@ This repository consists of the Various Upgrad projects completed while pursuing
 1. GDP Aanalysis
 2. Uber Demand and Supply Gap
 3. Credit Card Case Study
+4. Car Price Prediction using Linear Regression
+
