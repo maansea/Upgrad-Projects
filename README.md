@@ -6,3 +6,5 @@ This repository consists of the Various Upgrad projects completed while pursuing
 4. Car Price Prediction using Linear Regression
 5. NGO Poverty Analysis using PCA and Clustering
 6. Lead Scoring Case Study
+7. House Price Prediction
+8. Telecom Churn Case Study
